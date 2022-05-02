@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnalyticsAshish
+- 👋 Hi, I’m Ashish Kumar
 - 👀 I’m interested in MYSQl, Python and R
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning R Programming
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach my twitter @AnOmniscient
 
